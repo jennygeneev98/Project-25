@@ -10,7 +10,7 @@ var dustbinIMG,dustbinSprite;
 function preload()
 {
 
-	dustbinIMG=loadImage("images/dustbingreen.png")
+	dustbinIMG=loadImage("dustbingreen.png")
 	//packageIMG=loadImage("package.png")
 
 }
